@@ -25,6 +25,9 @@ wheels/
 *.egg
 MANIFEST
 
+# Jupyter
+.ipynb_checkpoints
+
 #html
 *.html
 *.htm
